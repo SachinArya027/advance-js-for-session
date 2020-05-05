@@ -10,7 +10,7 @@ class Boat {
 	}
 }
 
-// function logError(target, b, c, d) {
+// function logError(target) {
 // 	const method = target.descriptor.value;
 // 	target.descriptor.value = function (...args) {
 // 		try {
