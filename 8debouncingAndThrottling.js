@@ -21,6 +21,8 @@ const debounced = _.debounce(batchLog, 500, { leading: true, trailing: false });
 // setTimeout(debounced, 501);
 // setTimeout(debounced, 1500);
 
+
+// file:///D:/Learn/js-session/assets/bar-owner.png
 ////////////////////////////////////////
 //////////////THROTTLING////////////////
 ////////////////////////////////////////
